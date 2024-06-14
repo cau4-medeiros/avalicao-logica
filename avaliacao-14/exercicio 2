@@ -1,0 +1,9 @@
+# imprimir número impares de 1 a 100
+for i range
+print(i)
+
+print("--------------------")
+
+# imprimir números de 3 a 97
+for i in range (3, 99)
+print(i)

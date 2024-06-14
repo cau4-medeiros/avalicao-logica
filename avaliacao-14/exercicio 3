@@ -1,0 +1,14 @@
+int 2030;
+
+cout<<"2030; ";
+cout>>2030;
+
+if(2030 % 400 == 0 || ano % 4 == 0 && 2030 % 100 != 0)
+{
+    cout<<"É ano bissexto, operação invalida";
+}
+else
+{
+    cout<<"Não é ano bissexto, operação invalida";
+}
+return 0;
